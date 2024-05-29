@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="white">#F2F2F2</color>
+    <color name="light_purple">#7850BF</color>
+
+
+    <!-- Light black background with 10% opacity -->
+    <color name="light_black_10">#1A000000</color>
+    <!-- Light black background with 20% opacity -->
+    <color name="light_black_20">#33000000</color>
+    <!-- Light black background with 30% opacity -->
+    <color name="light_black_30">#4D000000</color>
+    <!-- Light black background with 40% opacity -->
+    <color name="light_black_40">#66000000</color>
+    <!-- Light dark background with 50% opacity -->
+    <color name="light_dark_50">#80000000</color>
+    <!-- Light dark background with 70% opacity -->
+    <color name="light_dark_70">#B3000000</color>
+    <!-- Light dark background with 90% opacity -->
+    <color name="light_dark_90">#E6000000</color>
+
+
 </resources>
